@@ -2,15 +2,15 @@
 
 Android downloads for AniQore.
 
-## Current preview: v1.12.3
+## Current preview: v1.12.4
 
-[Download AniQore APK](https://github.com/GianCarlozxc/AniQoreRelease/releases/download/v1.12.3/AniQore-v1.12.3.apk) | [Release notes](https://github.com/GianCarlozxc/AniQoreRelease/releases/tag/v1.12.3)
+[Download AniQore APK](https://github.com/GianCarlozxc/AniQoreRelease/releases/download/v1.12.4/AniQore-v1.12.4.apk) | [Release notes](https://github.com/GianCarlozxc/AniQoreRelease/releases/tag/v1.12.4)
 
 Requires Android 8.0 or newer. This is a debug-signed preview build. App and playback testing are pending manual review.
 
 Features include online username/password accounts, open registration, encrypted remembered sessions, account-separated local libraries, an upward-sliding Discover headline, anime discovery and search, dark/light appearance, Library and Plan to Watch, season/episode browsing, native video controls, completion tracking, resume banners, and automatic next-episode playback after a ten-second countdown.
 
-[Source repository](https://github.com/GianCarlozxc/AniQore) (access depends on repository permissions). Source revision: 334fa117e644e26e2750f90b8737b8ebafa9d5b9.
+[Source repository](https://github.com/GianCarlozxc/AniQore) (access depends on repository permissions). Source revision: aa824b01781d6255ee0ccf1880fda0fb6c4b07a4.
 
 Known issues: background season metadata may replace richer details; episode metadata can remain stale during a session; rewatch banners and Library completion can remain outdated in some cases.
 
@@ -20,10 +20,10 @@ Metadata and stream availability depend on external providers.
 
 ## Verify the download
 
-SHA-256 for AniQore-v1.12.3.apk:
+SHA-256 for AniQore-v1.12.4.apk:
 
 ```text
-ba6cde0d7504d5518ce7df77c982b998a16b409e5e65136eadd09c8e0f7fc2d0
+3d567c42185a2f5ac0993c3855837234fdff6dc9258ca13199cd6d430523fa60
 ```
 
 A SHA256SUMS.txt file is also attached to the release.
